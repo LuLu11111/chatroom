@@ -1,0 +1,23 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "This is for school assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuLu11111/chatroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuLu11111/chatroom/issues"
+  },
+  "homepage": "https://github.com/LuLu11111/chatroom#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
